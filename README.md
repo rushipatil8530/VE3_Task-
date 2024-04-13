@@ -25,9 +25,13 @@ Task Manager is a web application that allows users to manage their tasks and to
 
 1. **Clone the repository:**
 
+<<<<<<< HEAD
    ```bash
    
    cd task-manager
+=======
+   https://github.com/rushipatil8530/VE3_Task-.git
+>>>>>>> 70385833fa1b1ca53bf0c68ef410a4ac32fd8f06
    ```
 
 2. **Backend (Django):**
