@@ -24,14 +24,8 @@ Task Manager is a web application that allows users to manage their tasks and to
 ## Getting Started
 
 1. **Clone the repository:**
-
-<<<<<<< HEAD
-   ```bash
    
-   cd task-manager
-=======
    https://github.com/rushipatil8530/VE3_Task-.git
->>>>>>> 70385833fa1b1ca53bf0c68ef410a4ac32fd8f06
    ```
 
 2. **Backend (Django):**
@@ -77,6 +71,18 @@ The backend Django server provides the following API endpoints:
 - `DELETE /api/task/<task_id>/`: Delete a specific task.
 
 You can use these endpoints to interact with the task data programmatically.
+## some Pictures of Project:
+Home Page(Listview of API)
+![image](https://github.com/rushipatil8530/VE3_Task-/assets/145107024/172e690b-ba7f-4b06-a791-b8cc05b81512)
+Adding Task By Add Task button
+![image](https://github.com/rushipatil8530/VE3_Task-/assets/145107024/407a9b43-03a3-4106-b8b5-18d84e1afffc)
+Updating Task by Edit Button
+![image](https://github.com/rushipatil8530/VE3_Task-/assets/145107024/58c39e97-d952-4312-abcf-3e7b0959a1d7)
+Deleting Task By Delete Button 
+![image](https://github.com/rushipatil8530/VE3_Task-/assets/145107024/d5a62385-3326-4b43-bae0-3cc4fd040702)
+
+
+
 
 
 
