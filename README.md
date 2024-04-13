@@ -25,7 +25,7 @@ Task Manager is a web application that allows users to manage their tasks and to
 
 1. **Clone the repository:**
 
-   
+   https://github.com/rushipatil8530/VE3_Task-.git
    ```
 
 2. **Backend (Django):**
